@@ -1,0 +1,59 @@
+
+# Python virtual environment
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# IDE and editor
+.vscode/
+.idea/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs and temporary files
+*.log
+logs/
+tmp/
+temp/
+
+# Local databases
+*.db
+*.sqlite
+*.sqlite3
+
+# Model artifacts
+*.joblib
+*.pkl
+*.pickle
+
+# Large raw datasets
+data/raw/
+data/external/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Build and test artifacts
+build/
+dist/
+*.egg-info/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Original HumAID dataset
+data/model_evaluation/humaid_kerala/
+data/model_evaluation/humaid_annotations.csv

@@ -1,0 +1,16 @@
+message,emergency_type
+"Floodwater is entering our house and the water is rising",flood_rescue
+"River overflow has flooded the nearby village",flood_rescue
+"Water is entering homes near the river",flood_rescue
+"Three people are trapped on the roof of their house",trapped_people
+"We are stranded and cannot get out of the building",trapped_people
+"A family is stuck on the rooftop due to flooding",trapped_people
+"An elderly person is injured and bleeding",medical_emergency
+"One person is unconscious and needs medical help",medical_emergency
+"A child cannot breathe and needs urgent medical attention",medical_emergency
+"We need to evacuate our village immediately",evacuation
+"Families need shelter and help leaving their homes",evacuation
+"Please arrange evacuation for people near the river",evacuation
+"We cannot find our child after the flood",missing_person
+"A family member has been missing since the flooding",missing_person
+"Please help us find a missing person in the village",missing_person
