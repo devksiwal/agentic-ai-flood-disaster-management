@@ -33,7 +33,7 @@ temp/
 *.sqlite3
 
 # Model artifacts
-*.joblib
+
 *.pkl
 *.pickle
 
